@@ -39,7 +39,7 @@ section{
     /* width: 1500px; */
     width: 80%;
     margin: 20vh;
-    gap: 30px;
+    gap: 35px;
     grid-template-areas: 
     "column1 column1 column2 column5"
     "column3 column4 column4 column5";
