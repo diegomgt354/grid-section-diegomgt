@@ -20,7 +20,7 @@
 
 body{
     background-color: var(--Grey100);
-    font-family: "Outfit", serif;
+    font-family: "Barlow Semi Condensed", serif;
     font-optical-sizing: auto;
     font-style: normal;
     
@@ -79,7 +79,7 @@ section:nth-child(1)  article:nth-child(1){
     background-color: var(--Purple500);
     background-image: url(./images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
-    background-position: 80% 20%;/* x y */
+    background-position: 95% 10%;/* x y */
     color: var(--White);
     /* grid-column:1/2 span; */
     grid-area: column1;
