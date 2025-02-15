@@ -83,8 +83,6 @@ section:nth-child(1)  article:nth-child(1){
     color: var(--White);
     /* grid-column:1/2 span; */
     grid-area: column1;
-
-
 }
 
 section:nth-child(1)  article:nth-child(2){
